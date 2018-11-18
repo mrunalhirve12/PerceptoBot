@@ -1,5 +1,7 @@
 <b><i> PLEASE REVIEW THE FINAL PROJECT ASSIGNMENT PRESENTATION INCLUDED IN THE REPOSITORY.  THERE HAVE BEEN SOME CHANGES SINCE I INTRODUCED THE PROJECT IN CLASS DURING WEEK 7.</i></b>
 
+[Final Project Assignment] (final project assignment.pdf)
+
 ## ECE 558 Final Project -- Propose, design, implement, and demonstrate a project of your choosing
 ## <b>This assignment is worth 100 points.  Demo day is  on Thu, 06-Dec from 8:00 AM - 10:30 in FAB 60-19.  Deliverables are due to GitHub on Fri, 07-Dec by 10:00 PM. NO LATE SUBMISSIONS, PLEASE </b>
 
